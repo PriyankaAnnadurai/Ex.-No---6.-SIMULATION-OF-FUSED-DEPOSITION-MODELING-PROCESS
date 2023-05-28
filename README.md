@@ -21,6 +21,7 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
 
 ## Output:
+![image](https://github.com/PriyankaAnnadurai/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/118351569/0e4f0ea2-7566-4347-9083-a706c184f362)
 
 ### Name: PRIYANKA.A
 ### Register Number: 212222230113
